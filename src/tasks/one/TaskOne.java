@@ -1,4 +1,4 @@
-package tasks.task_one;
+package tasks.one;
 
 import static methods.check.year.CheckYear.checkYear;
 

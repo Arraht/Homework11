@@ -1,4 +1,4 @@
-package tasks.task_three;
+package tasks.three;
 
 import static methods.calculate.CalculateDays.calculateDays;
 

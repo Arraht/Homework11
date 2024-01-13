@@ -1,4 +1,4 @@
-package tasks.task_two;
+package tasks.two;
 
 import static methods.check.version.CheckVersion.checkVersion;
 
